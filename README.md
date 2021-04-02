@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh4real" alt="http://mouiz.ml/" /></p>
+<p align="left"> <a href='http://mouiz.ml/'<< portfolio >> </a> </p>
 
 <!--
 **Mouizuddin/Mouizuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
