@@ -2,10 +2,7 @@
 - 📫 How to reach me: <a href='https://mouiz.ml/'> << portfolio >> </a> 
 - 🌱 I’m currently learning :  <a href='https://github.com/Mouizuddin/machine-learning'> Machine Learning </a> 
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://mouiz.ml/" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/mouiz_uddin/">][instagram]
 
 <!--
 https://www.instagram.com/mouiz_uddin/
