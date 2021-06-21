@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh4real" alt="https://github.com/Mouizuddin" /></p>
+<p align="left"> <img src="#" alt="https://github.com/Mouizuddin" /></p>
 <p align="left"> <a href='https://mouiz.ml/'> << portfolio >> </a> </p>
 
 <!--
