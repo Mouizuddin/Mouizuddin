@@ -1,6 +1,5 @@
 ### Hi there 👋
-<p align="left"> <img src="#" alt="https://github.com/Mouizuddin" /></p>
-<p align="left"> <a href='https://mouiz.ml/'> << portfolio >> </a> </p>
+- 📫 How to reach me: <p align="left"> <a href='https://mouiz.ml/'> << portfolio >> </a> </p>
 
 <!--
 **Mouizuddin/Mouizuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
