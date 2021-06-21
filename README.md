@@ -2,7 +2,13 @@
 - 📫 How to reach me: <a href='https://mouiz.ml/'> << portfolio >> </a> 
 - 🌱 I’m currently learning :  <a href='https://github.com/Mouizuddin/machine-learning'> Machine Learning </a> 
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://mouiz.ml//iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/mouiz_uddin//npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <!--
+https://www.instagram.com/mouiz_uddin/
 **Mouizuddin/Mouizuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
