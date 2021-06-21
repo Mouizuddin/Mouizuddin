@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://mouiz.ml//iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/mouiz_uddin//npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://mouiz.ml/" />][website]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/mouiz_uddin/">][instagram]
 
 <!--
 https://www.instagram.com/mouiz_uddin/
