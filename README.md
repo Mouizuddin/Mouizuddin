@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 📫 How to reach me: align="left"> <a href='https://mouiz.ml/'> << portfolio >> </a> 
-- 🌱 I’m currently learning :  <a href='https://github.com/Mouizuddin/machine-learning' Machine Learning </a> 
+- 📫 How to reach me: <a href='https://mouiz.ml/'> << portfolio >> </a> 
+- 🌱 I’m currently learning :  <a href='https://github.com/Mouizuddin/machine-learning'> Machine Learning </a> 
 
 <!--
 **Mouizuddin/Mouizuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
