@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: <a href='https://mouiz.ml/'> << portfolio >> </a> 
-- 🌱 I’m currently learning :  <a href='https://github.com/Mouizuddin/machine-learning'> Machine Learning </a> 
-
+- 🌱 I’m currently learning :  <p> <a href='https://github.com/Mouizuddin/machine-learning'> Machine Learning </a> </p>
 
 
 <!--
