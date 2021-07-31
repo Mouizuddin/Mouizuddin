@@ -1,10 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 - 📫 How to reach me: <a href='https://mouiz.ml/'> << portfolio >> </a> 
-- 🌱 I’m currently learning :  <p> <a href='https://github.com/Mouizuddin/machine-learning'> Machine Learning </a> </p>
+- 🌱 I’m currently learning :   <a href='https://github.com/Mouizuddin/machine-learning'> Machine Learning </a> 
+- 🔭 I’m currently working on <a href='https://github.com/Mouizuddin/machine-learning'> Django (Python-based free and open-source web framework) </a> 
+- ⚡ social media : <a href='https://www.instagram.com/mouiz_uddin/'> Machine Learning </a> 
+
+
+
 
 
 <!--
-https://www.instagram.com/mouiz_uddin/
+c
 **Mouizuddin/Mouizuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
