@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- ⚡ How to reach me: <a href='https://linktr.ee/Mouiz_uddin'>  Projects  </a>
+- ⚡ How to reach me: <a href='https://linktr.ee/Mouiz_uddin'>  linktree  </a>
 - 🔭 LeetCode : <a href='https://leetcode.com/mouizuddin26/'> Leet Code </a> 
 <!-- - 🌱 I’m currently learning :   <a href='https://github.com/Mouizuddin/machine-learning'> Machine Learning </a>  -->
 <!-- - 🔭 I’m currently working on <a href='https://github.com/Mouizuddin/machine-learning'> Django (Python-based free and open-source web framework) </a>  -->
