@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- ⚡ Profile: <a href='https://mouizuddin.github.io/my_profile/'>  linktree  </a>
+- ⚡ Profile: <a href='https://mouizuddin.github.io/my_profile/'>  Profile  </a>
 - 🔭 LeetCode : <a href='https://leetcode.com/mouizuddin26/'> Leet Code </a> 
 - 🌱 Data Structures & Algorithms  :   <a href='https://github.com/Mouizuddin/data_structure_algorithm'> DS/Algo </a>  
 <!-- - 🔭 I’m currently working on <a href='https://github.com/Mouizuddin/machine-learning'> Django (Python-based free and open-source web framework) </a>  -->
